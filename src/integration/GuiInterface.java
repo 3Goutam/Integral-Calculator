@@ -102,7 +102,7 @@ public class GuiInterface extends javax.swing.JFrame {
 
         jLabel3.setBackground(new java.awt.Color(255, 153, 153));
         jLabel3.setFont(new java.awt.Font("Bookman Old Style", 1, 14)); // NOI18N
-        jLabel3.setText("Presented BY:- Goutam Kumar Bhadani & Ayush Choudhary");
+        jLabel3.setText("Presented BY:- Goutam Kumar Bhadani ");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
